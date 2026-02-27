@@ -1,6 +1,6 @@
 # "Hello AI World" Agentic System Example
 
-> **This is an educational project** — built to demonstrate and explore the concepts Java library for building stateful, multi-agent applications with Large Language Models (LLMs). It is not production-ready software.
+> **This is an educational project** — built to demonstrate and explore the concepts of Java library for building stateful, multi-agent applications with Large Language Models (LLMs). It is not production-ready software.
 
 Very simple Sprint Boot project with REST Controller that allows to trigger a simple Agentic system.
 
