@@ -1,8 +1,10 @@
 # "Hello AI World" Agentic System Example
 
+> **This is an educational project** — built to demonstrate and explore the concepts of Hybrid RAG and agentic self-correction using LangGraph4J. It is not production-ready software.
+
 Very simple Sprint Boot project with REST Controller that allows to trigger a simple Agentic system.
 
-LangGraph4J is used to define a simple workflow of 3 agents. Spring Boot and Spring AI - the rest.
+[LangGraph4J](https://github.com/langgraph4j/langgraph4j) is used to define a simple workflow of 3 agents. Spring Boot and Spring AI - the rest.
 
 ## How It Works
 
